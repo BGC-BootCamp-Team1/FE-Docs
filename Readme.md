@@ -1,6 +1,6 @@
 # FE
 
-http://https://github.com/Agile-Digital-Corporate-Learning/FE-Docs
+https://github.com/Agile-Digital-Corporate-Learning/FE-Docs
 
 ## Component & Library
 
